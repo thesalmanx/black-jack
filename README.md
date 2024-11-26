@@ -1,6 +1,6 @@
 # BlackJack 🎲🃏
 A simple BlackJack game built with vanilla JavaScript, HTML, and CSS. Test your luck and see if you can hit 21 without going bust!
-## 👀 live demo 
+## 👀 live demo https://abc-black-jack.netlify.app/
 
 # 🎮 How to Play
 - Start Game: Click the "Start Game" button to draw your initial two cards.
